@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678580755,
+			"expirationDate": 1678581303,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -77,31 +77,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678580755,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1536x668"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "presence",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677975926189%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1709511947.520356,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -115,7 +90,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685751945.520398,
+			"expirationDate": 1678581303,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685752331.234113,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,8 +112,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0FnLs7MkurAw4elFf.AWUHgHze1nvfCsKVqfTZSckq51Y.BkA-GM.0e.AAA.0.0.BkA-GM.AWUwvtiL8RY"
+			"value": "0FnLs7MkurAw4elFf.AWVHbSSZUuEfsUU2K6fNDgeoVac.BkA-GM.0e.AAA.0.0.BkA-ML.AWWjX1JhcDA"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1677976476626%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "05.03.2023 00:26 coment"
+	"lastEventDate": "05.03.2023 00:35 coment"
 }
