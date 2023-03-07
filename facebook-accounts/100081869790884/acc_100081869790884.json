@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678753463,
+			"expirationDate": 1678815480,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -88,6 +88,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1678245127,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -96,11 +109,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNGlqdjExMzBidngiLCJ0aW1lIjoxNjc4MTQ4NDgyfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNHJjbGRqbTNmMCIsInRpbWUiOjE2NzgxNTg3ODl9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678753463,
+			"expirationDate": 1678815480,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -109,11 +122,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x611"
+			"value": "1536x668"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685924513.35531,
+			"expirationDate": 1685986436.976115,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0nHeCWKD3TCqmNoLR.AWUqD_jkJoR2i4imG8IPx8fuJso.BkBoIT.0e.AAA.0.0.BkBoOj.AWWzVKM1lJA"
+			"value": "0nHeCWKD3TCqmNoLR.AWVNpZGURWggAfumevWRkAeuG2U.BkBoIT.0e.AAA.0.0.BkB3WF.AWUEOz7QBzE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678148633590%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100088814561795%22%7D%5D%2C%22utc3%22%3A1678210686837%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.03.2023 00:24 Aquecimento 01 teste",
+	"lastEventDate": "07.03.2023 17:38 Aquecimento 01 teste",
 	"status": 2
 }
