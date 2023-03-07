@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100081869790884",
 	"name": "",
-	"amountFriends": "406",
+	"amountFriends": "411",
 	"screenname": "Eberson Da Silva Pereira",
 	"birthdate": "1998 February 18",
 	"country": "Brazil",
@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678635701,
+			"expirationDate": 1678753463,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709566124.321692,
+			"expirationDate": 1709684115.411121,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709566124.321729,
+			"expirationDate": 1709684115.411237,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +84,23 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "19%3ANKW8ziMm3npATQ%3A2%3A1678030125%3A-1%3A11342"
+			"value": "19%3ANKW8ziMm3npATQ%3A2%3A1678030125%3A-1%3A7841%3A%3AAcV4558_Zteh063Md2M7jBTbBSGVy7guXHve32A_sQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678635701,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNGlqdjExMzBidngiLCJ0aW1lIjoxNjc4MTQ4NDgyfQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678753463,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -97,11 +109,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x668"
+			"value": "1536x611"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685806682.820162,
+			"expirationDate": 1685924513.35531,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0HVrvO6Tpop8vejXi.AWVCDrTBqghEU38zyHE5Zeka-Bw.BkBLSh.0e.AAA.0.0.BkBLdb.AWUtt4CZJx8"
+			"value": "0nHeCWKD3TCqmNoLR.AWUqD_jkJoR2i4imG8IPx8fuJso.BkBoIT.0e.AAA.0.0.BkBoOj.AWWzVKM1lJA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678030874654%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678148633590%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "05.03.2023 16:18 Aquecimento 01 teste",
+	"lastEventDate": "07.03.2023 00:24 Aquecimento 01 teste",
 	"status": 2
 }
