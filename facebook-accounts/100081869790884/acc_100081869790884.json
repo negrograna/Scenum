@@ -36,7 +36,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678906561,
+			"expirationDate": 1678907063,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -113,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678906561,
+			"expirationDate": 1678907063,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686077599.01028,
+			"expirationDate": 1686078114.371365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0BeumNpGIPFRAoYxo.AWUj9sfkYVbE7Voz3TGfayBXq1k.BkB3xy.0e.AAA.0.0.BkCNmf.AWVDv-OPUsY"
+			"value": "0BeumNpGIPFRAoYxo.AWV6cmItPq-LIRKzDDtUVrlQMQA.BkB3xy.0e.AAA.0.0.BkCNuj.AWWrMqbnka0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678301733065%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678302238153%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.03.2023 19:01 cookie",
+	"lastEventDate": "08.03.2023 19:04 Aquecimento 01 teste",
 	"status": 2
 }
