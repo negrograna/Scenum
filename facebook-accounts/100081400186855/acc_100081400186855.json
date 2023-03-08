@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100081400186855",
 	"name": "",
-	"amountFriends": "164",
+	"amountFriends": "168",
 	"screenname": "Emerson Da Silva Pereira",
 	"birthdate": "2003 March 3",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678894577,
+			"expirationDate": 1678895289,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678894577,
+			"expirationDate": 1678895289,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -128,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686065601.720259,
+			"expirationDate": 1686066371.545641,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LoQfpKbnkfzYxOSK.AWUiF75wxOrxBMrrRDZlBaX0m_E.BkB-uY.1U.AAA.0.0.BkCKrC.AWVsh56oSvc"
+			"value": "0LoQfpKbnkfzYxOSK.AWW8B5pHMck5gstg9LIGY8b9XcM.BkB-uY.1U.AAA.0.0.BkCK3D.AWW2YO9hWSg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678289753939%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100034644523228%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678290486661%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.03.2023 15:46 Cookie+ like"
+	"lastEventDate": "08.03.2023 15:48 Cookie+ like"
 }
