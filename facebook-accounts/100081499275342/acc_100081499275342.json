@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100081499275342",
 	"name": "",
-	"amountFriends": "233",
+	"amountFriends": "231",
 	"screenname": "Emerson Da Silva Pereira",
 	"birthdate": "2003 March 4",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678902219,
+			"expirationDate": 1678984186,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -90,7 +90,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678327812,
+			"expirationDate": 1678396963,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -100,18 +100,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyNmpjNTE1aThtbGwiLCJ0aW1lIjoxNjc4MjQxNDExfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -128,20 +116,19 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1678902219,
 			"hostOnly": false,
 			"httpOnly": false,
-			"name": "wd",
+			"name": "usida",
 			"path": "/",
-			"sameSite": "lax",
+			"sameSite": "no_restriction",
 			"secure": true,
-			"session": false,
+			"session": true,
 			"storeId": "0",
-			"value": "1536x611"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJyODBwcjFvYml6bmsiLCJ0aW1lIjoxNjc4MzEwNTYzfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686073194.851401,
+			"expirationDate": 1686155241.561023,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -150,7 +137,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0uMXUXaVxgNCE1MNF.AWWQ8kT7Hx4MLV21_Q-TgXFmy34.BkCMU7.OD.AAA.0.0.BkCMhr.AWUMHFFu47w"
+			"value": "0uMXUXaVxgNCE1MNF.AWWZB7F9hqlz17YTIxiVsKH3fkc.BkCMU7.OD.AAA.0.0.BkCgjq.AWU5ORGC2-U"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1678984186,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1536x668"
 		},
 		{
 			"domain": ".facebook.com",
@@ -162,8 +162,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089982881040%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678297413877%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678379378388%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.03.2023 17:48 cookie"
+	"lastEventDate": "09.03.2023 16:29 Aquecimento 02"
 }
