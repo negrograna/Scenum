@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709918361.088944,
+			"expirationDate": 1710009066.728181,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -61,19 +61,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100081436846520"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678397270,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
 		},
 		{
 			"domain": ".facebook.com",
@@ -102,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709918361.088988,
+			"expirationDate": 1710009066.728315,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "36%3AYaMf6KNUByVR0g%3A2%3A1678035901%3A-1%3A5547%3A%3AAcWr8HdQlS4JChZqQ9jotpqD_ygeUrQfI6dqiAm-sLY"
+			"value": "36%3AYaMf6KNUByVR0g%3A2%3A1678035901%3A-1%3A5547%3A%3AAcWEDuJg6ONbUm-bqSD48zyJhGFO0MGE4QrI93QLNSE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686158360.089008,
+			"expirationDate": 1686249111.038449,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +111,20 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "057aADELd3c06IA2Z.AWV9wEs69rbUAc8mM5oPfN2J23w.BkChUZ.ux.AAA.0.0.BkChUZ.AWVbUWCNsSA"
+			"value": "0CLa8JltA9HJoDpD8.AWU17CLvGHsxvSDZ47IygadibXU.BkC3dr.ux.AAA.0.0.BkC3eY.AWWs9R-G5yE"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1679078091,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1920x835"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,21 +136,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678382520240%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1678987353,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1920x835"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678473261871%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "09.03.2023 17:43 Aquecimento 02"
+	"lastEventDate": "10.03.2023 18:34 Aquecimento 01 teste"
 }
