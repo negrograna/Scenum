@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679422696,
+			"expirationDate": 1679501873,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710353656.750408,
+			"expirationDate": 1710432786.866284,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679422696,
+			"expirationDate": 1679501873,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x668"
+			"value": "1536x611"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710353656.750472,
+			"expirationDate": 1710432786.866332,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "3%3AuLy895PveSubAw%3A2%3A1678756939%3A-1%3A-1%3A%3AAcWFSC_2_dkFgUssd9_dShPP7uiUAQro5KIzXYdIOg"
+			"value": "3%3AuLy895PveSubAw%3A2%3A1678756939%3A-1%3A-1%3A%3AAcWWnOvePSWlgFOBSTwp5sGRhn0D6PUPJy3Ez2gIUg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686593665.33431,
+			"expirationDate": 1686672785.866353,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0riRIQvS37jCYGEHV.AWWkmK1wJabjFj3ntdQVYF43Aag.BkELl5.lp.AAA.0.0.BkELmB.AWWGplq_A1M"
+			"value": "0nDxdX7xZEmkiFJzg.AWVYu1-_BAnrt2hjpAb13O5-CYo.BkEe6U.lp.AAA.0.0.BkEe6U.AWXKjNYbBng"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,8 +149,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678817874041%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1678897027962%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.03.2023 18:19 Aquecimento 03"
+	"lastEventDate": "15.03.2023 16:17 Aquecimento 03"
 }
