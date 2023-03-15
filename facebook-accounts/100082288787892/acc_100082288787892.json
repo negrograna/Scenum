@@ -2,10 +2,10 @@
 	"sn": "facebook",
 	"custom": {},
 	"status": 2,
-	"lastEventDate": "14.03.2023 16:13 Aquecimento 01 teste",
+	"lastEventDate": "15.03.2023 14:05 Aquecimento 02",
 	"id": "100082288787892",
 	"name": "",
-	"amountFriends": "288",
+	"amountFriends": "289",
 	"screenname": "Glaucia Da Silva Pereira",
 	"birthdate": "1996 October 15",
 	"country": "Brazil",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679414283,
+			"expirationDate": 1679493916,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710345057.942765,
+			"expirationDate": 1710424991.609501,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,20 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710345057.942939,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "42%3AfQIeMP7fO0iZ8Q%3A2%3A1678311725%3A-1%3A5587%3A%3AAcWTaIYkIbUBb5vx3L7uxVNZvlQJ4gLfvSMbWuFVpXk"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1679414283,
+			"expirationDate": 1679493916,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,11 +87,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1536x611"
+			"value": "1536x668"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686585345.600744,
+			"expirationDate": 1710424991.609549,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "42%3AfQIeMP7fO0iZ8Q%3A2%3A1678311725%3A-1%3A5587%3A%3AAcX3kYS_ejl1IONB4KNXV5fNWRKrhrtIo9FdG89Z7BM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1686664990.609571,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gmJKn1EynWuryp7s.AWU0aKhtDjffEWwcZBEBjcIwz7A.BkEJfi.UY.AAA.0.0.BkEJkC.AWWir5XtLZY"
+			"value": "0ZiosG8zXJTC794GG.AWWQ6qd83Uxig9JKuQbxhOBF4GA.BkEdAh.UY.AAA.0.0.BkEdAh.AWUJJIi3AQ4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100011751259123%22%7D%2C%7B%22i%22%3A%22u.100081651802977%22%7D%2C%7B%22i%22%3A%22u.100081732946397%22%7D%2C%7B%22i%22%3A%22u.100010179246576%22%7D%2C%7B%22i%22%3A%22u.100057532392989%22%7D%2C%7B%22i%22%3A%22u.100082974262933%22%7D%2C%7B%22i%22%3A%22u.100081991473359%22%7D%2C%7B%22i%22%3A%22u.100081674726465%22%7D%5D%2C%22utc3%22%3A1678809459210%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100080232535807%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011751259123%22%7D%2C%7B%22i%22%3A%22u.100081651802977%22%7D%2C%7B%22i%22%3A%22u.100081732946397%22%7D%2C%7B%22i%22%3A%22u.100010179246576%22%7D%2C%7B%22i%22%3A%22u.100057532392989%22%7D%2C%7B%22i%22%3A%22u.100082974262933%22%7D%2C%7B%22i%22%3A%22u.100081991473359%22%7D%2C%7B%22i%22%3A%22u.100081674726465%22%7D%2C%7B%22i%22%3A%22u.100089811376177%22%7D%2C%7B%22i%22%3A%22u.100066551857877%22%7D%5D%2C%22utc3%22%3A1678889110066%2C%22v%22%3A1%7D"
 		}
 	]
 }
