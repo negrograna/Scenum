@@ -2,10 +2,10 @@
 	"sn": "facebook",
 	"custom": {},
 	"status": 2,
-	"lastEventDate": "15.03.2023 14:32 Aquecimento 02",
+	"lastEventDate": "16.03.2023 15:15 Aquecimento 03",
 	"id": "100082288787892",
 	"name": "",
-	"amountFriends": "289",
+	"amountFriends": "300",
 	"screenname": "Glaucia Da Silva Pereira",
 	"birthdate": "1996 October 15",
 	"country": "Brazil",
@@ -52,7 +52,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679493916,
+			"expirationDate": 1679584544,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -65,7 +65,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710424991.609501,
+			"expirationDate": 1710515528.077711,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -78,7 +78,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679493916,
+			"expirationDate": 1679584544,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -91,7 +91,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710424991.609549,
+			"expirationDate": 1710515528.077769,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -100,11 +100,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "42%3AfQIeMP7fO0iZ8Q%3A2%3A1678311725%3A-1%3A5587%3A%3AAcX3kYS_ejl1IONB4KNXV5fNWRKrhrtIo9FdG89Z7BM"
+			"value": "42%3AfQIeMP7fO0iZ8Q%3A2%3A1678311725%3A-1%3A5587%3A%3AAcWd3tMlcG3yScfpEtjl-raDY49t46HABxLT5sv_TGE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686664990.609571,
+			"expirationDate": 1686755643.375254,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -113,7 +113,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZiosG8zXJTC794GG.AWWQ6qd83Uxig9JKuQbxhOBF4GA.BkEdAh.UY.AAA.0.0.BkEdAh.AWUJJIi3AQ4"
+			"value": "0hB1vjaS55LsLIU2q.AWWVsB58HIfcZQr4bD7nejvDpwA.BkEzHK.UY.AAA.0.0.BkEzI9.AWWBiG_c7n4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -125,7 +125,7 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100080232535807%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100011751259123%22%7D%2C%7B%22i%22%3A%22u.100081651802977%22%7D%2C%7B%22i%22%3A%22u.100081732946397%22%7D%2C%7B%22i%22%3A%22u.100010179246576%22%7D%2C%7B%22i%22%3A%22u.100057532392989%22%7D%2C%7B%22i%22%3A%22u.100082974262933%22%7D%2C%7B%22i%22%3A%22u.100081991473359%22%7D%2C%7B%22i%22%3A%22u.100081674726465%22%7D%2C%7B%22i%22%3A%22u.100089811376177%22%7D%2C%7B%22i%22%3A%22u.100066551857877%22%7D%5D%2C%22utc3%22%3A1678889110066%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100064982569456%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100080232535807%22%7D%2C%7B%22i%22%3A%22u.100081732946397%22%7D%2C%7B%22i%22%3A%22u.100081651802977%22%7D%2C%7B%22i%22%3A%22u.100011751259123%22%7D%2C%7B%22i%22%3A%22u.100057532392989%22%7D%2C%7B%22i%22%3A%22u.100082974262933%22%7D%2C%7B%22i%22%3A%22u.100081991473359%22%7D%2C%7B%22i%22%3A%22u.100081674726465%22%7D%2C%7B%22i%22%3A%22u.100089811376177%22%7D%2C%7B%22i%22%3A%22u.100066551857877%22%7D%5D%2C%22utc3%22%3A1678979718537%2C%22v%22%3A1%7D"
 		}
 	]
 }
