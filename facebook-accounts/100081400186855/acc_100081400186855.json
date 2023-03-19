@@ -4,7 +4,7 @@
 	"status": 2,
 	"id": "100081400186855",
 	"name": "",
-	"amountFriends": "183",
+	"amountFriends": "182",
 	"screenname": "Emerson Da Silva Pereira",
 	"birthdate": "2003 March 3",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679763053,
+			"expirationDate": 1679839006,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710694104.153508,
+			"expirationDate": 1710770052.02246,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -114,7 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1679763053,
+			"expirationDate": 1679839006,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -127,7 +127,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710694104.153564,
+			"expirationDate": 1710770052.022521,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -136,11 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "23%3A8YyZ22qHJz_s_Q%3A2%3A1678116633%3A-1%3A8966%3A%3AAcUMRpDG1lIFFFCFRXtqHG5ugT1XUa6A3RH3aQVBxlo"
+			"value": "23%3A8YyZ22qHJz_s_Q%3A2%3A1678116633%3A-1%3A8966%3A%3AAcWE2q8t4fk35RBc_OnqpWF0bLR2Z3vryZWWgy5avTg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1686934197.025507,
+			"expirationDate": 1687010141.585956,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0CeQvzaRkO7nvTxN2.AWWVaRCZUU_Qim88PlbjNJMB9oo.BkFetZ.1U.AAA.0.0.BkFeu3.AWUJQ6EyzTk"
+			"value": "0Fdbga7vbNbkYWfHI.AWUoPP-qEgD-BQ93sisz5lc0B3o.BkFxQE.1U.AAA.0.0.BkFxRe.AWXNbVZ7za8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100002941541812%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.287680017998870%22%7D%5D%2C%22utc3%22%3A1679158248640%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100002941541812%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.287680017998870%22%7D%5D%2C%22utc3%22%3A1679234197943%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.03.2023 13:54 cookie"
+	"lastEventDate": "19.03.2023 13:56 cookie"
 }
