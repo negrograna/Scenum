@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680125946,
+			"expirationDate": 1680191797,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -64,7 +64,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711056987.575982,
+			"expirationDate": 1711122798.289346,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +77,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680125946,
+			"expirationDate": 1711122798.289405,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "16%3AgqX2m8PnKc_1JQ%3A2%3A1678760943%3A-1%3A-1%3A%3AAcWIHbWt31BbOx4K76g8SNYOCLdqH2WUg7CchXJZbaA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1680191797,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -90,20 +103,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711056987.57603,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "16%3AgqX2m8PnKc_1JQ%3A2%3A1678760943%3A-1%3A-1%3A%3AAcXaOseiUC-3kbEBajVNTyQrV-52ZHTga7O9P2GXysY"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1687297061.23951,
+			"expirationDate": 1687362913.659513,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +112,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0SDkvQs91c99c2t5z.AWWRiWkLNBzmBzdamw4Mq5QGv-Y.BkG3Tb.8G.AAA.0.0.BkG3Ul.AWW2qVKoh5Y"
+			"value": "0uPgmdmDbaGbhBfZV.AWWAdfaUN-eol6leOv6MZ0FxK-Y.BkHHXt.8G.AAA.0.0.BkHHZh.AWWmMn0tYP8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +124,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679521157167%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679586975046%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "22.03.2023 21:42 coment01"
+	"lastEventDate": "23.03.2023 15:56 Aquecimento 02"
 }
