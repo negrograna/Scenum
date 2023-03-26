@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680442010,
+			"expirationDate": 1680442563,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -127,7 +127,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680442010,
+			"expirationDate": 1680442563,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -140,7 +140,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687613103.294513,
+			"expirationDate": 1687613657.688805,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0tvkh8QfXArK83pGu.AWWXxKY6AnOGBDV8CYUXhF7hV3Y.BkIEcr.lp.AAA.0.0.BkIEew.AWWKHL_wUtc"
+			"value": "0tvkh8QfXArK83pGu.AWURYp2KoMFOlgWC_19qeNOSbO4.BkIEcr.lp.AAA.0.0.BkIEnb.AWW0W76AeKk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679837186389%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1679837739924%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.03.2023 13:32 Ver video"
+	"lastEventDate": "26.03.2023 13:36 Apenas likes e comentários"
 }
