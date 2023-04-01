@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711726159.626094,
+			"expirationDate": 1711890805.519982,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -87,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680795075,
+			"expirationDate": 1680959760,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711726159.626127,
+			"expirationDate": 1711890805.520051,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -109,11 +109,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "45%3AGh3r5ebzWUDajg%3A2%3A1680027231%3A-1%3A-1%3A%3AAcX1owOC_-dJ4AWKEw_8LVvcCOms58cGFkOnEilJOg"
+			"value": "45%3AGh3r5ebzWUDajg%3A2%3A1680027231%3A-1%3A-1%3A%3AAcWJUeadLsM4ueZqtbRtn4k8Dz5igHv6mQAb_H-QbJc"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680795075,
+			"expirationDate": 1680959760,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687966217.986244,
+			"expirationDate": 1688130900.889454,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Kz5gukbRptjxmkZI.AWVkGehUzHWDekXDK-lMagU8riA.BkJarQ.UY.AAA.0.0.BkJasL.AWUVVK8ub6k"
+			"value": "0O7ZyAChbqZos6VyI.AWW4w7oJYOaYcLMwbYmetJgptFM.BkKC30.UY.AAA.0.0.BkKC5W.AWXjrgje0tE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +147,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680190250868%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22g.6769175526430014%22%7D%5D%2C%22utc3%22%3A1680354935727%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "30.03.2023 16:15 Apenas likes e comentários",
+	"lastEventDate": "01.04.2023 13:17 Apenas likes e comentários",
 	"status": 2
 }
