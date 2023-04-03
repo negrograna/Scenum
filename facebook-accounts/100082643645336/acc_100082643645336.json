@@ -4,7 +4,7 @@
 	"custom": {},
 	"status": 2,
 	"name": "",
-	"amountFriends": "74",
+	"amountFriends": "81",
 	"screenname": "Emerson Da Silva Pereira",
 	"birthdate": "2003 March 4",
 	"country": "Brazil",
@@ -51,20 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680008573,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.25"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1710939431.463312,
+			"expirationDate": 1712054240.581443,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -77,7 +64,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710939431.463384,
+			"expirationDate": 1680637976,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1712054240.581518,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -86,11 +86,36 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3AM3gvvCrDink5cg%3A2%3A1678749795%3A-1%3A13044%3A%3AAcWiB4FK90TEXSPiBizyLRCfa82n3EhLM4tOBVlUe-o"
+			"value": "7%3AM3gvvCrDink5cg%3A2%3A1678749795%3A-1%3A13273%3A%3AAcUKNPgaHU2pawW94LRb60vqy4ytdA_Moij5xHjae7g"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1680008573,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJzazF2ZDF3ZDJ6eHoiLCJ0aW1lIjoxNjgwNTUxNTc2fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681159004,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.25"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1681159004,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -103,7 +128,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687179644.402699,
+			"expirationDate": 1688330126.344949,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -112,7 +137,19 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0vgl3SpSDal9qQTiu.AWVxAhcdfjxBdUCPXFyP7CQej-k.BkGamf.gI.AAA.0.0.BkGap7.AWUjnQj32hQ"
+			"value": "0TU1irxVZaauynFlG.AWUxZbgWwpM181ZoefTp6fwR6wU.BkKqxi.gI.AAA.0.0.BkKziO.AWVRknHt6qE"
+		},
+		{
+			"domain": "web.facebook.com",
+			"hostOnly": true,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "strict",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbYDBbIqOLKAhMEFrDO4ebJwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABa24tnCDBYAABV-HEwAABYAFrji2cIMFgAAFigA%22%2C%225%22%3A%22GSwVNBxMAAAWABa64tnCDBYAABWAARxMAAAWABa64tnCDBYAABYoAA%22%2C%2216%22%3A%22FQQVCBl8FQQVhgEmuuLZwgwWAAAVBBVuJsTi2cIMFgAAFQQVOia-4tnCDBYAABUEFQwmvOLZwgwWAAAVBBU8JsDi2cIMFgAAFQQVYCbC4tnCDBYAABUEFVImwuLZwgwWAAAWCBEmABYOAA%22%2C%2226%22%3A%22dummy_cursor%22%2C%2228%22%3A%221680554140%22%2C%22140%22%3A%22FQQWCCa64tnCDBUAAA%22%2C%22141%22%3A%22FQQWCCa64tnCDBUAAA%22%2C%22142%22%3A%22dummy_cursor%22%2C%22143%22%3A%22FQQWCCa64tnCDBUAAA%22%7D%2C%22d%22%3A%220e073e6a-3062-4b4e-9e2a-fa04e5d606aa%22%2C%22s%22%3A%221%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
@@ -124,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100077578594877%22%7D%2C%7B%22i%22%3A%22u.100087438896380%22%7D%2C%7B%22i%22%3A%22u.100390862970891%22%7D%5D%2C%22utc3%22%3A1679403778658%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680554202033%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "21.03.2023 13:15 Aquecimento 01 teste"
+	"lastEventDate": "03.04.2023 20:37 Aquecimento 03"
 }
