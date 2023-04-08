@@ -23,7 +23,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681574609,
+			"expirationDate": 1681574906,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -88,7 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1681574609,
+			"expirationDate": 1681574906,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1688745750.348421,
+			"expirationDate": 1688746048.20503,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0f5OeupqGPCnzOM4L.AWXwHCmmZKm1oNC90HujSOIqPVE.BkMYys.HK.AAA.0.0.BkMZAX.AWVpyglYsbs"
+			"value": "0f5OeupqGPCnzOM4L.AWUBxMlrXNSe5VcWhqwyFe6K1CI.BkMYys.HK.AAA.0.0.BkMZFA.AWV_6ePVHmE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680969782831%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1680970080097%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "08.04.2023 16:05 cookie",
+	"lastEventDate": "08.04.2023 16:10 Apenas likes e comentários",
 	"status": 2
 }
