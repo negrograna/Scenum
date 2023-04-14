@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712937735.708551,
+			"expirationDate": 1713021209.289793,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682006636,
+			"expirationDate": 1682090556,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712937735.708735,
+			"expirationDate": 1713021209.289853,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +84,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A-1%3A%3AAcXInIo7B4pASMuBA23gpDAaitQOdF0rXtWTv4yoFQ"
+			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcWocTpgbiF9ZqKjBqDL2WJtwfQ45_xpi_q7Kg7DqQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682006636,
+			"expirationDate": 1689261699.41961,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0lDszEuyLeczZ6e4W.AWXE3VQcoI0YmAENidicM0DOpis.BkOW2Y.5C.AAA.0.0.BkOW-D.AWURtqCiMzY"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682090556,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,19 +114,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689177774.908793,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "005KdQcy65kIIAxNF.AWXGqmvbjiwvLTX8oD0f7Eg3AKA.BkOCeI.5C.AAA.0.0.BkOCev.AWWFcQsdX-0"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "presence",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1681401809928%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1681485730743%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.04.2023 15:21 Perfil novo ",
+	"lastEventDate": "14.04.2023 15:23 Perfil novo ",
 	"status": 2
 }
