@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100082207070774",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Glaucia Da Silva Pereira",
 	"birthdate": "1993 October 15",
 	"country": "Brazil",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713041536.763041,
+			"expirationDate": 1713089434.454951,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682110401,
+			"expirationDate": 1682158295,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -71,11 +71,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.441666603088379"
+			"value": "1.1083333492279053"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682110401,
+			"expirationDate": 1682158295,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -84,11 +84,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1332x486"
+			"value": "1733x703"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713041536.763088,
+			"expirationDate": 1713089434.455008,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -97,11 +97,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcXsnhV8tjBBIZI7QdGUaqxgnhmxUQp7o0tzfO3rHg"
+			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcXTAcasw2lC2ztNxDEMHtdDhDCsQUdlaSYfHaaSsQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689281541.787114,
+			"expirationDate": 1689329439.184132,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PdonpkoLF2O0ZSrL.AWU1r7wZFVuJ9LhfB2_IC0i7J38.BkOb0B.5C.AAA.0.0.BkOb0G.AWW6rxuq_kU"
+			"value": "0HUeDAcqambEfJJei.AWUPX511lpbgnB-cTUswDZ_MSuA.BkOnga.5C.AAA.0.0.BkOngf.AWXSAchI2zg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1681505575208%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1681553472348%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.04.2023 21:26 Apenas likes e comentários",
+	"lastEventDate": "15.04.2023 10:12 Apenas likes e comentários",
 	"status": 2
 }
