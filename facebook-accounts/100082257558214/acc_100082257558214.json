@@ -62,19 +62,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682250222,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1.1083333492279053"
-		},
-		{
-			"domain": ".facebook.com",
 			"expirationDate": 1713181252.314229,
 			"hostOnly": false,
 			"httpOnly": true,
@@ -88,20 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682250222,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1733x703"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1689421363.680844,
+			"expirationDate": 1689421571.388245,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +84,33 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0iEAtBPRlpaR1AKwu.AWWwy6AAcVOF1O1EPf_Hi8_is18.BkO97D.xo.AAA.0.0.BkO98z.AWVzEZHRiXY"
+			"value": "0iEAtBPRlpaR1AKwu.AWUSaUWUjxlp7iEHrzRssNTzqRk.BkO97D.xo.AAA.0.0.BkO-AC.AWX5bBxb9zk"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682250428,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1155x468"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682250428,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1.662500023841858"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681645395779%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681645603524%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.04.2023 11:45 cookie",
+	"lastEventDate": "16.04.2023 11:48 Apenas likes e comentários",
 	"status": 2
 }
