@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712945715.083967,
+			"expirationDate": 1713202474.993636,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,7 +74,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682014612,
+			"expirationDate": 1682271338,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1733x703"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682271338,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -83,11 +96,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.441666603088379"
+			"value": "1.1083333492279053"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1712945715.084019,
+			"expirationDate": 1713202474.993696,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -96,11 +109,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "45%3AGh3r5ebzWUDajg%3A2%3A1680027231%3A-1%3A15414%3A%3AAcWKuf-kBIrOt8pzJQsIESUOMfbKSkEcBpXTJ2MplKE"
+			"value": "45%3AGh3r5ebzWUDajg%3A2%3A1680027231%3A-1%3A15414%3A%3AAcWuRDw2BdBBOXP6tOVGQnaNcW4VzO0XX8RdTLdR_u0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689185727.951832,
+			"expirationDate": 1689442473.993729,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0YJjmeC89ey0vEE87.AWXmuk9tm4DP20aKtl_HapuYNjc.BkOEaz.UY.AAA.0.0.BkOEbA.AWX5bh-edVo"
+			"value": "02Iy2JZbrYx314j1k.AWVp_y6ULfgrTn_oendlaSJ5On0.BkPDGq.UY.AAA.0.0.BkPDGq.AWUwjptsjMU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,22 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681409783432%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682014612,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1332x486"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681666510839%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.04.2023 18:26 Perfil novo ",
+	"lastEventDate": "16.04.2023 17:37 Aquecimento 02",
 	"status": 2
 }
