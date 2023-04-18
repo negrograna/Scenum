@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100082531539009",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Suellen De Souza Fernandes",
 	"birthdate": "1996 October 8",
 	"country": "Brazil",
@@ -23,7 +23,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716254203.038407,
+			"expirationDate": 1716392402.628721,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682376035,
+			"expirationDate": 1682438048,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713307126.358003,
+			"expirationDate": 1713367621.314583,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713307126.358135,
+			"expirationDate": 1713367621.314653,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +84,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcUqL9AUW7FY7LUlhs4_dg27visctnCeCwS9btIIaQ"
+			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcVM7WXvB_Up5PcUsASGUTlShu-CzTh8aJOop-G3aA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682376035,
+			"expirationDate": 1682438048,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689547173.768658,
+			"expirationDate": 1689609187.999363,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "05fmUPxoIfwOuSJ9O.AWW9JkAunHyzIZ4IX7x7PepTD1I.BkPcpw.zS.AAA.0.0.BkPcql.AWWPGSyjBck"
+			"value": "068YOsC1P0HdkKUqX.AWUq9rCs2IuOwsCsHK7aslcq8ME.BkPrbF.zS.AAA.0.0.BkPrzk.AWXMLW-1FgA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681771209693%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681833223735%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.04.2023 23:00 Apenas likes e comentários",
+	"lastEventDate": "18.04.2023 15:55 Apenas likes e comentários",
 	"status": 2
 }
