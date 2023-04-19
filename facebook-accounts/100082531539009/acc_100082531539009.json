@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682533762,
+			"expirationDate": 1682534018,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713464865.925794,
+			"expirationDate": 1713465180.205914,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,20 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682533762,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1155x468"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1713464865.925913,
+			"expirationDate": 1713465180.205961,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -97,11 +84,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcXwBGSy1AqQH_R8BmaxtYnzKXRclHMaJuKtA28uag"
+			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcUx3K5lVVdsCPZj8urXr7GEqdMFT1OpZ_w8uuhPjA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689704874.242967,
+			"expirationDate": 1689705179.205983,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +97,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0PGlsQH2gFpdY91vc.AWV2oPZgfG-q5GjFqsdzIrQeqtE.BkQDKj.zS.AAA.0.0.BkQDKr.AWWMXGpWm-E"
+			"value": "0A73xRMdI49g0ajnv.AWWXdKVhuGovsNyb9ZlrzHSUR3w.BkQDPY.zS.AAA.0.0.BkQDPY.AWXnerliDb0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +109,22 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681928930784%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681929186479%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682534018,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1155x468"
 		}
 	],
-	"lastEventDate": "19.04.2023 18:31 cookie",
+	"lastEventDate": "19.04.2023 18:35 Apenas likes e comentários",
 	"status": 2
 }
