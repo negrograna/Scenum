@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713355781.836188,
+			"expirationDate": 1713461397.15245,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -59,19 +59,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100082207070774"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1713355781.836275,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcU4j0oifDJFHfcP8VvfxUvnU85Pzbv6gnp52XOWTdU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -87,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682426053,
+			"expirationDate": 1682530336,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -100,7 +87,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682426053,
+			"expirationDate": 1713461397.15256,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcXPuuSSy8lAHEOAVEAsf5mNTfb-J9twL5nkfkQ7apQ"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1682530336,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,7 +113,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689597198.217983,
+			"expirationDate": 1689701476.569673,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0b8o2sZHWc07pcvXZ.AWVM2kMr2P4gcogjJ05SKViWMWE.BkPoiG.5C.AAA.0.0.BkPo4P.AWX3aYsnDOU"
+			"value": "0UNerfj0MsK8c7Czl.AWUYXE2HSI8lZtd4EjCjqmGOQp4.BkQCUV.5C.AAA.0.0.BkQCVl.AWXZ7J5GHnM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,9 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681821230934%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681925510148%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.04.2023 13:04 Apenas likes e comentários",
+	"lastEventDate": "19.04.2023 17:33 Apenas likes e comentários",
 	"status": 2
 }
