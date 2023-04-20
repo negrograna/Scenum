@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682534018,
+			"expirationDate": 1682591369,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713465180.205914,
+			"expirationDate": 1713522470.282926,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713465180.205961,
+			"expirationDate": 1713522470.28297,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +84,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcUx3K5lVVdsCPZj8urXr7GEqdMFT1OpZ_w8uuhPjA"
+			"value": "18%3AHy-3D2qCQe0zCg%3A2%3A1681694199%3A-1%3A-1%3A%3AAcXz16V8jCBpGyGj5yL4_yX-PXn5NxTZOxSw5-X3XSI"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689705179.205983,
+			"expirationDate": 1682591369,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1155x468"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1689762511.600424,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -97,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0A73xRMdI49g0ajnv.AWWXdKVhuGovsNyb9ZlrzHSUR3w.BkQDPY.zS.AAA.0.0.BkQDPY.AWXnerliDb0"
+			"value": "0P2DLyMtQ5i55vX7t.AWUbHGE44cE2ZyLCLT6XWHIx2sw.BkQROn.zS.AAA.0.0.BkQRPQ.AWUBY_XfLd0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -109,22 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681929186479%2C%22v%22%3A1%7D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1682534018,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1155x468"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1681986543464%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "19.04.2023 18:59 Apenas likes e comentários",
+	"lastEventDate": "20.04.2023 10:30 Apenas likes e comentários",
 	"status": 2
 }
