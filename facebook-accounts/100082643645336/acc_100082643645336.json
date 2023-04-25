@@ -4,7 +4,7 @@
 	"custom": {},
 	"status": 2,
 	"name": "",
-	"amountFriends": "208",
+	"amountFriends": "207",
 	"screenname": "Emerson Da Silva Pereira",
 	"birthdate": "2003 March 4",
 	"country": "Brazil",
@@ -51,7 +51,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713649992.734684,
+			"expirationDate": 1713920960.757997,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682199381,
+			"expirationDate": 1682549633,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -89,7 +89,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682720035,
+			"expirationDate": 1713920960.758048,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7%3AM3gvvCrDink5cg%3A2%3A1678749795%3A-1%3A13273%3A%3AAcUsG7wYEW7VZLfgqcHcpWf7mJTVzinbNzAGVKe4UQs"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1683069132,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -98,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1.409999966621399"
+			"value": "1.321874976158142"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,11 +123,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ0aGlteTF5ZGw5cGgiLCJ0aW1lIjoxNjgyMTEyOTc5fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ0b3ptNDF4aXBreXMiLCJ0aW1lIjoxNjgyNDYzNjE0fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1682720035,
+			"expirationDate": 1683069132,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -123,24 +136,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1363x542"
+			"value": "1454x578"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713649992.73484,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "7%3AM3gvvCrDink5cg%3A2%3A1678749795%3A-1%3A13273%3A%3AAcWtc6WKEjhnysEoEJEvL9ulefmCNa2UAmb4q2OyLFo"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1689891117.105086,
+			"expirationDate": 1690240262.396776,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -149,7 +149,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "022u4DFxFTHfhb3pZ.AWVsuiQoe6HU5BhoC-xX9DjubTY.BkQwXI.gI.AAA.0.0.BkQwot.AWXKct-MhzQ"
+			"value": "0A4liziljjZzf765F.AWVqdphvx1u16C4IotF5fH0tdvM.BkRyhB.gI.AAA.0.0.BkSF4I.AWW_3F3H9Mk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -161,8 +161,8 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100077578594877%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100090579817174%22%7D%5D%2C%22utc3%22%3A1682115191914%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1682464302948%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "25.04.2023 23:10 cookie"
+	"lastEventDate": "25.04.2023 23:13 cookie"
 }
