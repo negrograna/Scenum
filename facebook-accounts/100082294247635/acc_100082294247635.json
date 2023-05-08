@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715004159.483052,
+			"expirationDate": 1715080746.574646,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -86,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684073027,
+			"expirationDate": 1684149621,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -99,7 +99,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684073027,
+			"expirationDate": 1684149621,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -112,7 +112,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715004159.48327,
+			"expirationDate": 1715080746.574697,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -121,11 +121,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "34%3AWN1_J9La5ZQY2g%3A2%3A1680026118%3A-1%3A8962%3A%3AAcV1bhJ3IOAyq34An4rYbWJq_oSKEBiiVmNP7vmMPfw"
+			"value": "34%3AWN1_J9La5ZQY2g%3A2%3A1680026118%3A-1%3A8962%3A%3AAcUFloXLwDu-Kn3CIdol-tZUDMW9cSIMLbjb4jbma_4"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691244163.073918,
+			"expirationDate": 1691320750.895347,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -134,7 +134,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0mWnsUuBZk4H8yWxb.AWWPAAg4iabHVrI8T7045e7zFBE.BkV69_.1U.AAA.0.0.BkV6-D.AWVGTFbG_8s"
+			"value": "0EuzN6muOHQnwx3DK.AWXfifHWFKZNPm0EXJf5QBfU44Q.BkWNqr.1U.AAA.0.0.BkWNqv.AWXFrEyyWKI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -146,9 +146,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100048566260739%22%7D%5D%2C%22utc3%22%3A1683468202875%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100063606340288%22%2C%22t3%22%3A%5B%7B%22i%22%3A%22u.100048566260739%22%7D%5D%2C%22utc3%22%3A1683544795429%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "07.05.2023 14:23 apenas comentarios",
+	"lastEventDate": "08.05.2023 11:21 apenas comentarios",
 	"status": 2
 }
