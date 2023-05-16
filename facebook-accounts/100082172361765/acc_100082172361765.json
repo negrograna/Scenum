@@ -6,7 +6,7 @@
 	"cookie": [
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718207411.545347,
+			"expirationDate": 1718791335.695651,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "dbln",
@@ -15,11 +15,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22100082172361765%22%3A%22jToabNkO%22%7D"
+			"value": "%7B%22100082172361765%22%3A%22ljpVGZWj%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718207398.570829,
+			"expirationDate": 1718791335.69536,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "sb",
@@ -45,20 +45,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715679908.018839,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "c_user",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "100082172361765"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684748765,
+			"expirationDate": 1684836223,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -71,7 +58,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684748765,
+			"expirationDate": 1684836223,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -84,7 +71,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715679908.018948,
+			"expirationDate": 1715767333.695515,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100082172361765"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1715767333.69556,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -93,11 +93,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "48%3AWCUA5u8Xav2D4Q%3A2%3A1683647397%3A-1%3A-1%3A%3AAcX4EH08707hOYC6Gq_J_Zv6AiRzzwL4cCZkHdXuzg"
+			"value": "39%3AxJvQ1lnXKRzqHA%3A2%3A1684231335%3A-1%3A-1"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1691919907.019017,
+			"expirationDate": 1692007363.266661,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -106,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zkcuC8n3k1MtRrPt.AWUJPu19wrxa07TFJfx5qX3uADg.BkYf8k.MY.AAA.0.0.BkYf8k.AWVvAu34fv4"
+			"value": "0zkcuC8n3k1MtRrPt.AWWK58VarbYMqt7G1LNaaTb_Io0.BkYf8k.MY.AAA.0.0.BkY1TF.AWW2F17Hfk4"
 		},
 		{
 			"domain": ".facebook.com",
@@ -118,10 +118,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684143963167%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684231421214%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.05.2023 10:01 Apenas likes",
+	"lastEventDate": "16.05.2023 10:05 Apenas likes",
 	"status": 2,
 	"screenname": "Karla Gomis",
 	"birthdate": "1996 October 8",
