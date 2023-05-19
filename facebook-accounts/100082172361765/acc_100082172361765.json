@@ -45,7 +45,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684836223,
+			"expirationDate": 1685135418,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -58,20 +58,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684836223,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1454x578"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1715767333.695515,
+			"expirationDate": 1716066512.476427,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -84,7 +71,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715767333.69556,
+			"expirationDate": 1685135418,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1454x578"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1716066512.476471,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -93,11 +93,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "39%3AxJvQ1lnXKRzqHA%3A2%3A1684231335%3A-1%3A-1"
+			"value": "39%3AxJvQ1lnXKRzqHA%3A2%3A1684231335%3A-1%3A-1%3A%3AAcXcJHf1XFmSpJIyDULYE4thlxraPquSxkGtmJtcyg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692007363.266661,
+			"expirationDate": 1692306511.476488,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -106,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zkcuC8n3k1MtRrPt.AWWK58VarbYMqt7G1LNaaTb_Io0.BkYf8k.MY.AAA.0.0.BkY1TF.AWW2F17Hfk4"
+			"value": "0ybEvZmsMJE92vjYc.AWVDeq7K-XLj6WfbPfyYmrMkXmM.BkZ-VR.MY.AAA.0.0.BkZ-VR.AWW1G07RN20"
 		},
 		{
 			"domain": ".facebook.com",
@@ -118,10 +118,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684231421214%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684530611241%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.05.2023 10:05 Apenas likes",
+	"lastEventDate": "19.05.2023 21:11 LIKE+COOKIE",
 	"status": 2,
 	"screenname": "Karla Gomis",
 	"birthdate": "1996 October 8",
