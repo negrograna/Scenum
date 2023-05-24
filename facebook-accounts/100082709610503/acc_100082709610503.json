@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100082709610503",
 	"name": "",
-	"amountFriends": "",
+	"amountFriends": "2",
 	"screenname": "Gleice Da Silva Pereira",
 	"birthdate": "1996 March 3",
 	"country": "Brazil",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685447006,
+			"expirationDate": 1685528281,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716378108.440923,
+			"expirationDate": 1716459396.487873,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -88,7 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685447006,
+			"expirationDate": 1685528281,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716378108.441002,
+			"expirationDate": 1716459396.488056,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -110,11 +110,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A-1%3A%3AAcVQZ3zL79i1BikstAXmlwXm4-WDvWMtczKRWdCRRg"
+			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A-1%3A%3AAcXJl553tZQIfEqju6cUb3Dfn77RYAfH5dFe4A2V8A"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692618115.458154,
+			"expirationDate": 1692699401.423155,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0LGzEz00H4s9jPQaC.AWWf3ppZLo7DSuOCvwXYTs2urVE.BkbKZ9.uC.AAA.0.0.BkbKaE.AWVpe_3UKDI"
+			"value": "0SQQfXvqNWLvRGqtX.AWWj8lCMBvzr0FdtPpTdf0DhkUk.BkbeQG.uC.AAA.0.0.BkbeQL.AWWlCJQrgAU"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,9 +135,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100079104189712%22%7D%5D%2C%22utc3%22%3A1684842166563%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100079104189712%22%7D%5D%2C%22utc3%22%3A1684923485238%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.05.2023 12:29 COMMENTING+COOKIE",
+	"lastEventDate": "24.05.2023 10:19 LIKE+COOKIE",
 	"status": 2
 }
