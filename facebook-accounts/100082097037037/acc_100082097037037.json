@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715873898.432152,
+			"expirationDate": 1716430000.799893,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -62,7 +62,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684364247,
+			"expirationDate": 1692301608.411393,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100082097037037"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1685196601,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -75,6 +88,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1716430000.799994,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "43%3AVh3LEKkGfMIdng%3A2%3A1680025747%3A-1%3A9034%3A%3AAcXpCgsHgwt7PzKEVXUxC6oufeopA4Yx2vivj5EOQvI"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -83,11 +109,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ1cngxc3c3NzdrNiIsInRpbWUiOjE2ODQyNzc5ODN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ2OXJhNTFhZXlvcHoiLCJ0aW1lIjoxNjg1MTEwMzE3fQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1684942948,
+			"expirationDate": 1685715809,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -100,20 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715873898.43227,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "43%3AVh3LEKkGfMIdng%3A2%3A1680025747%3A-1%3A9034%3A%3AAcXR8IQHb7nCTEEx4qm1rd7HhzXbZUG5ly54xq7bM8g"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1684942948,
+			"expirationDate": 1685715809,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +139,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692113918.061408,
+			"expirationDate": 1692886902.738674,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,20 +148,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0cHXdhdellQSfKuG2.AWUOvEDrEPccMeYktKcR2FLglxU.BkZPTp.Of.AAA.0.0.BkZPT9.AWUmPgVhVLU"
-		},
-		{
-			"domain": ".web.facebook.com",
-			"expirationDate": 1718898150.292519,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbKDxaI2_LqBRMFFtr7vN3FwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABby0qfGDBYAABV-HEwAABYAFuTTp8YMFgAAFigA%22%7D%2C%22d%22%3A%22cbeca099-18f8-4f76-8321-984902a972da%22%2C%22s%22%3A%221%22%2C%22u%22%3A%223rr17i%22%7D"
+			"value": "0mmiMazx2gS8KU2Bd.AWVBVCRxRX4EFC6Fm7SBV8EnW4E.BkbXEy.Of.AAA.0.0.BkcMB4.AWWM2b3I0ps"
 		},
 		{
 			"domain": ".facebook.com",
@@ -160,9 +160,22 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1684338150493%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1685110958003%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".web.facebook.com",
+			"expirationDate": 1719671007.311965,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbiDxaI2_LqBRMFFtr7vN3FwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWAhby0qfGDBYAABV-HEwAABYAFuTTp8YMFgAAFigA%22%7D%2C%22d%22%3A%22cbeca099-18f8-4f76-8321-984902a972da%22%2C%22s%22%3A%221%22%2C%22u%22%3A%2280gb0l%22%7D"
 		}
 	],
-	"lastEventDate": "17.05.2023 15:48 LIKE+COOKIE",
+	"lastEventDate": "26.05.2023 14:25 like+comentário+cookie",
 	"status": 2
 }
