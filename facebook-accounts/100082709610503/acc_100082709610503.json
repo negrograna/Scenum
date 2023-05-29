@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1685817573,
+			"expirationDate": 1685962831,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716748603.538235,
+			"expirationDate": 1716893963.917887,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -88,20 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716748603.53831,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A10348%3A%3AAcUqITcOWQ6H-TybOIcX-fRaM6LGLy6aEGZAaTmT7B8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1685817573,
+			"expirationDate": 1685962831,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -114,7 +101,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692988655.352526,
+			"expirationDate": 1716893963.917938,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A10348%3A%3AAcWlh1Y8mxnjcjKEn31Uv302j_sWgNFXX5-Ht2peSug"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1693133969.001514,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +123,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0ZNDfe5MsEoqusxHH.AWWbELyc7dKqX31VUPGqAjkseQI.Bkck27.uC.AAA.0.0.Bkck3w.AWWqPZln98w"
+			"value": "0QccccBWtXXPEDlg2.AWVuFwZ8ry5LHu09Du9b4fiugzU.BkdIWN.uC.AAA.0.0.BkdIWS.AWVJn06CnwY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,9 +135,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100079104189712%22%7D%5D%2C%22utc3%22%3A1685212769338%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100079104189712%22%7D%5D%2C%22utc3%22%3A1685358002584%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.05.2023 19:02 like+comentário+cookie",
+	"lastEventDate": "29.05.2023 11:01 like+comentário+cookie",
 	"status": 2
 }
