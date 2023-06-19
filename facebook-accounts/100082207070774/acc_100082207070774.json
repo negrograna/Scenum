@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718495116.917134,
+			"expirationDate": 1718746720.631092,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,7 +74,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687564200,
+			"expirationDate": 1687815637,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -87,7 +87,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1687564200,
+			"expirationDate": 1687815637,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1718495116.917284,
+			"expirationDate": 1718746720.631221,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -109,11 +109,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcUq2fiARGTdY36dzR5xHHL7EYvSMGiETn6_JuYG1C4"
+			"value": "44%3Aytlem5uLerhdqQ%3A2%3A1681202239%3A-1%3A11447%3A%3AAcXIrz4_yQdGM_FlyCxzDQHbZX7BOeaVBfS7hWp7tN0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1694735124.096516,
+			"expirationDate": 1694986724.657296,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -122,7 +122,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0zrIWWYZndijQ4fdz.AWXj3ZMenZt630BTHlNGg1i4ZSM.BkjPQM.5C.AAA.0.0.BkjPQU.AWU7U085He8"
+			"value": "0iyyzCSSWH7zz2qbH.AWW8jgxADIMiYsuTc2inYMR-fwc.BkkMri.5C.AAA.0.0.BkkMrm.AWVFdFgqCuo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -134,9 +134,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1686959402857%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22i%22%3A%22u.100001553777930%22%7D%5D%2C%22utc3%22%3A1687210841288%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.06.2023 00:19 like+comentário+cookie",
+	"lastEventDate": "19.06.2023 21:42 LIKE+COOKIE",
 	"status": 2
 }
