@@ -62,7 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689953315,
+			"expirationDate": 1690625525,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -88,7 +88,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689434798,
+			"expirationDate": 1690106951,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -101,6 +101,19 @@
 		},
 		{
 			"domain": ".facebook.com",
+			"expirationDate": 1697768418.999643,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "m_page_voice",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100082207070774"
+		},
+		{
+			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -109,11 +122,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ4c2xqdzE0MDRmb3EiLCJ0aW1lIjoxNjg5MzQ4Mzk2fQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ5NzA1djF3Y3I4MmciLCJ0aW1lIjoxNjkwMDIwNjcxfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689953399,
+			"expirationDate": 1690631988,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +139,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697124531.744026,
+			"expirationDate": 1697803114.691679,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +148,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Uw8PigggjJtnXBY7.AWVLVOK2rXCHuABCBK8DKD3_hWo.Bkqz-7.5C.AAA.0.0.BksWm1.AWVlJUTuCw0"
+			"value": "0Uw8PigggjJtnXBY7.AWVcu_WbvBdiFhRLhl3y5h3A0k8.Bkqz-7.5C.AAA.0.0.Bku8Rr.AWUywsiF-NY"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +160,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1689348574691%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690027157366%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.07.2023 15:58 like+comentário+cookie",
-	"status": 2
+	"lastEventDate": "22.07.2023 12:01 LIKE+COOKIE",
+	"status": 2,
+	"profileName": "Glaucia Da Silva Pereira (Glaucia da Silva Pereira)"
 }
