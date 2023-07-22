@@ -2,7 +2,7 @@
 	"sn": "facebook",
 	"id": "100082709610503",
 	"name": "",
-	"amountFriends": "2",
+	"amountFriends": "5",
 	"screenname": "Gleice Da Silva Pereira",
 	"birthdate": "1996 March 3",
 	"country": "Brazil",
@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721237444.200846,
+			"expirationDate": 1721559020.260459,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690306541,
+			"expirationDate": 1690627935,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -88,19 +88,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721237444.200925,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A8966%3A%3AAcWyd7M0VX9KdLFxuiaCMLm2vsgRmnN9CBz2fjo1uw8"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -109,11 +96,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ5MDYydHFuNzk5NyIsInRpbWUiOjE2ODk3MDE1ODl9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ5NzIzd2Zuc2xqNCIsInRpbWUiOjE2OTAwMjMwMjB9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690306541,
+			"expirationDate": 1721559020.26051,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "13%3ATRVJWfxv4gDoaw%3A2%3A1684535933%3A-1%3A8966%3A%3AAcUFTsw8kK8hXvtf_OqI4PRLYIg3C3lTDRtvKNWtv5g"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1690627935,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -126,7 +126,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697477681.768688,
+			"expirationDate": 1697799075.886087,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,7 +135,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "01Kig6l4YvXYKVbJx.AWWEcOX5MG-DPHQajKjpL65iMmw.BktsxF.uC.AAA.0.0.Bkts0z.AWUtw7405R8"
+			"value": "0huwH11ZDEGDk0aNv.AWVNavv_PSyHdUTuk-ZhD74fDds.Bku7Rt.uC.AAA.0.0.Bku7Sk.AWVU0wVA0eA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,9 +147,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1689701716909%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690023110032%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "18.07.2023 18:41 like+comentário+cookie",
-	"status": 2
+	"lastEventDate": "22.07.2023 10:53 LIKE+COOKIE",
+	"status": 2,
+	"profileName": "Gleice Da Silva Pereira"
 }
