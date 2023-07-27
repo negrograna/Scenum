@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721241937.584505,
+			"expirationDate": 1722034104.967573,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -74,8 +74,34 @@
 			"value": "100082097037037"
 		},
 		{
+			"domain": ".web.facebook.com",
+			"expirationDate": 1724271730,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "m_ls",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABakFBaAmK3lCRMFFtr7vN3FwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbCzYvLDBYAABV-HEwAABYAFsjNi8sMFgAAFigA%22%7D%2C%22d%22%3A%22cbeca099-18f8-4f76-8321-984902a972da%22%2C%22s%22%3A%220%22%2C%22u%22%3A%221ip9q4%22%7D"
+		},
+		{
 			"domain": ".facebook.com",
-			"expirationDate": 1689955737,
+			"expirationDate": 1690583204,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1691102344,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -84,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0.800000011920929"
+			"value": "0.75"
 		},
 		{
 			"domain": ".facebook.com",
@@ -96,11 +122,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ4c245M2tjOTg2NiIsInRpbWUiOjE2ODkzNTA5MTF9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ5aDdsZnF2NWJ0byIsInRpbWUiOjE2OTA0OTc1NDR9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690310848,
+			"expirationDate": 1691102971,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -113,7 +139,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721241937.584662,
+			"expirationDate": 1722034104.967671,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -122,11 +148,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "43%3AVh3LEKkGfMIdng%3A2%3A1680025747%3A-1%3A11852%3A%3AAcX3x8IkZqjEgV6_Grm8hcXN1bY8l3pLI4xHZ8VBuuQ"
+			"value": "43%3AVh3LEKkGfMIdng%3A2%3A1680025747%3A-1%3A11852%3A%3AAcVuWq358zMbt-0o60DyNLyIP4deaIZ0IjEyEqzApVU"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1697481944.475021,
+			"expirationDate": 1698274110.386365,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -135,20 +161,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0juSwdcmxOGAgyRsl.AWUG2iO0wUftjPv0vJhePkfHcHI.Bktt3T.Of.AAA.0.0.Bktt3a.AWXZvz350_A"
-		},
-		{
-			"domain": ".web.facebook.com",
-			"expirationDate": 1724266049,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "m_ls",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABb6ExaAmK3lCRMFFtr7vN3FwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWABbCzYvLDBYAABV-HEwAABYAFsjNi8sMFgAAFigA%22%7D%2C%22d%22%3A%22cbeca099-18f8-4f76-8321-984902a972da%22%2C%22s%22%3A%221%22%2C%22u%22%3A%22jk9h1r%22%7D"
+			"value": "09SopyOqEcp0lS2cM.AWUkqJm0DvID5vXnRginnOVGZ00.BkwvQ5.Of.AAA.0.0.BkwvQ-.AWXlH-5LHq8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -160,9 +173,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1689706049136%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100094047314277%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100073485116703%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100007434338738%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100061016004830%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100038509868308%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100010788498307%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100035383354858%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100052513053950%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100082256043968%22%7D%5D%2C%22utc3%22%3A1690498173785%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.07.2023 02:14 add Cookies",
-	"status": 2
+	"lastEventDate": "27.07.2023 22:51 LIKE+COOKIE",
+	"status": 2,
+	"profileName": "Claudia Da Silva Pereira (Claudia Da Silva Pereira)"
 }
