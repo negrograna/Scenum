@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721774301.324138,
+			"expirationDate": 1723400303.479102,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -71,32 +71,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100083244507516"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1721774301.324247,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "40%3AtmblKuOclGYaZg%3A2%3A1683569007%3A-1%3A10687%3A%3AAcXARC28i_Q5hbej1z70U3mXb_pDgaaEbz1dCYafDpQ"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1690843343,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0.75"
 		},
 		{
 			"domain": ".facebook.com",
@@ -112,7 +86,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690843343,
+			"expirationDate": 1723400303.479201,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "40%3AtmblKuOclGYaZg%3A2%3A1683569007%3A-1%3A11330%3A%3AAcW_wipL01QpKJ5NIkNpW7-KqFXkqqMfpVaiULVIF8Y"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692469214,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -125,7 +112,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698014428.03364,
+			"expirationDate": 1699640356.322328,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -134,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0IauELbteaaRgdJnW.AWWbMaTfjRDN4rcP57-uTPwpDJE.Bkvv1d.zi.AAA.0.0.Bkvv3b.AWWz7_l2ehk"
+			"value": "0S3giWXqnO06MFbmS.AWWoJl_TT86k9hkpucKlgXhJ5nU.Bk18zv.zi.AAA.0.0.Bk180j.AWXcKjPoS-k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -146,10 +133,23 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690238502799%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1691864387797%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692469214,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0.75"
 		}
 	],
-	"lastEventDate": "24.07.2023 23:05 LIKE+COOKIE",
+	"lastEventDate": "12.08.2023 18:21 like+comentário+cookie",
 	"status": 2,
 	"profileName": "Nazaré Da Silva Pereira"
 }
