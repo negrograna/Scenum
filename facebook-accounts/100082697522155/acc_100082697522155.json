@@ -49,7 +49,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1721767287.271435,
+			"expirationDate": 1723408140.246128,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -59,19 +59,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100082697522155"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1721767287.271556,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2%3AmzEXefaWWoZd_w%3A2%3A1682286475%3A-1%3A2199%3A%3AAcUbJ5j612pcO4le6gpAj6dA7-iKI6vJc6oWxPVatJw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -87,7 +74,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1690836352,
+			"expirationDate": 1723408140.246237,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2%3AmzEXefaWWoZd_w%3A2%3A1682286475%3A-1%3A2206%3A%3AAcXY9p_Fsezkd4RSBh-20vu6-F7-2EG-g5ldwrsbqSI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692477040,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -100,7 +100,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698007437.068463,
+			"expirationDate": 1699648178.166902,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -109,7 +109,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Uyb0KslONY6r1iZS.AWVcAIXOEegjFaDXaepjsk4TdmA.BkvuH3.rt.AAA.0.0.BkvuKM.AWXmN9Spl2g"
+			"value": "07MB2ptAmtrl4Fd4Z.AWX-ZCh7Epv7aVrS9YSMPGxOmVI.Bk1-uM.rt.AAA.0.0.Bk1-ux.AWWM7ucbROM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -121,10 +121,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1690231514131%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1691872214987%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "24.07.2023 21:10 LIKE+COOKIE",
+	"lastEventDate": "12.08.2023 20:32 like+comentário+cookie",
 	"status": 2,
 	"profileName": "Nazaré Da Silva Pereira"
 }
