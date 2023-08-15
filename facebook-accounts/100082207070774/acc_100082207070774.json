@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692092375,
+			"expirationDate": 1692183660,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "cppo",
@@ -85,19 +85,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1692611870,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x572"
 		},
 		{
 			"domain": ".facebook.com",
@@ -114,19 +101,6 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699783011.497808,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "fr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0abJhw0FDi9rSa7Qd.AWWVvMYO2miF_u_SrN0_t4YlkfY.Bk2fpj.5C.AAA.0.0.Bk2fpj.AWXHnlzBjyw"
-		},
-		{
-			"domain": ".facebook.com",
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "usida",
@@ -135,7 +109,33 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ6ZGs1YTExZmwzeDciLCJ0aW1lIjoxNjkyMDA3MDQxfQ%3D%3D"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ6Zmlra3dvdWMxaiIsInRpbWUiOjE2OTIwOTcyNTh9"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1692702279,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x572"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699873417.930841,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0abJhw0FDi9rSa7Qd.AWWFwJ82ufm6RmyBGvi-biYpBa8.Bk2fpj.5C.AAA.0.0.Bk21uJ.AWX94v8y014"
 		},
 		{
 			"domain": ".facebook.com",
@@ -147,10 +147,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1692007068041%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1692097454012%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "14.08.2023 10:00 cookie",
+	"lastEventDate": "15.08.2023 11:06 Apenas likes",
 	"status": 2,
 	"profileName": "Glaucia Da Silva Pereira (Glaucia da Silva Pereira)"
 }
