@@ -5,7 +5,7 @@
 	"amountFriends": "",
 	"screenname": "Glaucia Da Silva Pereira",
 	"birthdate": "1993 October 15",
-	"country": "Brazil",
+	"country": "",
 	"isAvatarExists": false,
 	"cookie": [
 		{
@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1723651097.331716,
+			"expirationDate": 1723723795.590313,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -86,7 +86,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692719991,
+			"expirationDate": 1692792656,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,7 +99,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1723651097.331882,
+			"expirationDate": 1723723795.590374,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -108,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "35%3A9EidiGQt9uginw%3A2%3A1683628036%3A-1%3A-1%3A%3AAcVK9b_xtnvCtg4jXEmzBpwSfOg3YJBeZPs15g9GXoA"
+			"value": "35%3A9EidiGQt9uginw%3A2%3A1683628036%3A-1%3A-1%3A%3AAcWX9VGMOPzYJ3vYvLGwl1rNJKNEnVyF7XOWboAjEig"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699891104.202113,
+			"expirationDate": 1699963798.415833,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -121,7 +121,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0gKfVDeuxx5pdUhTY.AWVSoVTK6Yt4-_zetCpd1SUPYxU.Bk26CY.lp.AAA.0.0.Bk26Cf.AWUILz_vZKs"
+			"value": "09QEOb0OCUl9yw7JN.AWXwrRCfKsdun40zRxUCHR5oKWE.Bk3LyU.lp.AAA.0.0.Bk3LyW.AWXEZ1bq378"
 		},
 		{
 			"domain": ".facebook.com",
@@ -133,11 +133,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1692115182382%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1692187849812%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".web.facebook.com",
-			"expirationDate": 1726675187,
+			"expirationDate": 1726747852,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "m_ls",
@@ -146,11 +146,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbsCBbs1dvwBxMFFsaA8b7OwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWARbu6L7NDBYAABV-HEwAABYCFuzovs0MFgAAFigA%22%2C%2295%22%3A%22HCwAABYIFqr6-8wBEwUWxoDxvs7BLQA%22%7D%2C%22d%22%3A%22adbba621-25bc-4e20-8ff9-2cf2e8b1145b%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22pv2gv4%22%7D"
+			"value": "%7B%22c%22%3A%7B%221%22%3A%22HCwAABbwCBbs1dvwBxMFFsaA8b7OwS0A%22%2C%222%22%3A%22GSwVQBxMAAAWARbu6L7NDBYAABV-HEwAABYCFuzovs0MFgAAFigA%22%2C%2295%22%3A%22HCwAABYIFqr6-8wBEwUWxoDxvs7BLQA%22%7D%2C%22d%22%3A%22adbba621-25bc-4e20-8ff9-2cf2e8b1145b%22%2C%22s%22%3A%220%22%2C%22u%22%3A%22xksq21%22%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692719991,
+			"expirationDate": 1692792656,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -162,7 +162,7 @@
 			"value": "1.100000023841858"
 		}
 	],
-	"lastEventDate": "16.08.2023 12:09 cookie",
+	"lastEventDate": "16.08.2023 12:12 cookie",
 	"status": 2,
 	"profileName": "Glaucia Da Silva Pereira"
 }
