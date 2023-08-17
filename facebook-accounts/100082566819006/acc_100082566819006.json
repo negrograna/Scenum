@@ -3,7 +3,7 @@
 	"id": "100082566819006",
 	"name": "",
 	"profileName": "Nazaré Da Silva Pereira",
-	"amountFriends": "71",
+	"amountFriends": "79",
 	"screenname": "Nazaré Da Silva Pereira",
 	"birthdate": "1968 June 23",
 	"country": "Brazil",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1692784197,
+			"expirationDate": 1692896796,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699955324.120807,
+			"expirationDate": 1700067939.928042,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0Z65G8JkTLMan3sdZ.AWVnNY3PjQpu-pQYPAUz3W9pFZs.Bk3JtM.g2.AAA.0.0.Bk3Jt7.AWXq_VHaerc"
+			"value": "0Z65G8JkTLMan3sdZ.AWWtTWEPu-PXLuEeUW3Gl30H-PE.Bk3JtM.g2.AAA.0.0.Bk3lNj.AWVgqHO9CIc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,9 +110,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100070052828598%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1692179399485%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100089316698511%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100070052828598%22%7D%5D%2C%22utc3%22%3A1692291994281%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.08.2023 10:22 like+comentário+cookie",
+	"lastEventDate": "17.08.2023 17:07 like+comentário+cookie",
 	"status": 2
 }
