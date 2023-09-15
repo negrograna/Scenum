@@ -4,10 +4,6 @@
 	"name": "",
 	"profileName": "Eberson Da Silva",
 	"amountFriends": "217",
-	"screenname": "Eberson Da Silva",
-	"birthdate": "1995 February 2",
-	"country": "Brazil",
-	"isAvatarExists": false,
 	"cookie": [
 		{
 			"domain": ".facebook.com",
@@ -50,7 +46,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726241976.871559,
+			"expirationDate": 1726322842.041562,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,7 +71,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726241976.871614,
+			"expirationDate": 1726322842.04167,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -84,11 +80,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcVoon7okB3KGI3h4w6euw1fZhN2YENEuqxlvkEKGw"
+			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcX-EJStBDcmOGrCyR-7-C8d4RHs6KeDNDQLkiPXjg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695310956,
+			"expirationDate": 1695392441,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +97,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702482072.89987,
+			"expirationDate": 1702563580.088196,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0TE6LB23CED6az9jj.AWXnPWhiLbhqlu0HW1SbrdH5rdw.BlAyk6.Uo.AAA.0.0.BlAymb.AWWbCmAh4IA"
+			"value": "03iVoGMdMWtoS0JsX.AWUXzzhSBdyOCwPDNm1yUpsiv8U.BlBGUc.Uo.AAA.0.0.BlBGf_.AWWuezfxJTM"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +118,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694706151009%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694787638893%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "15.09.2023 14:19 COOKIE+ COMENTING FAST",
+	"lastEventDate": "15.09.2023 14:21 COOKIE+ COMENTING FAST",
 	"status": 2
 }
