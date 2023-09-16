@@ -46,7 +46,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726322842.041562,
+			"expirationDate": 1726435947.130923,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -71,20 +71,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726322842.04167,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcX-EJStBDcmOGrCyR-7-C8d4RHs6KeDNDQLkiPXjg"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1695392441,
+			"expirationDate": 1695504775,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -97,7 +84,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702563580.088196,
+			"expirationDate": 1726435947.130962,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcVoF1umbfsDcGvs7Ae-HRw4k0EPiEHi8WjbTxpWIw"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1702675947.13098,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -106,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "03iVoGMdMWtoS0JsX.AWUXzzhSBdyOCwPDNm1yUpsiv8U.BlBGUc.Uo.AAA.0.0.BlBGf_.AWWuezfxJTM"
+			"value": "0JwmbmWHgKouv1NIv.AWUCz7Qw6kZgnmETP1G91oLteNo.BlBh7p.Uo.AAA.0.0.BlBh7p.AWWtKCRvFTE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -118,9 +118,13 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694787638893%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694899949406%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.09.2023 21:31 COOKIE+ COMENTING FAST",
-	"status": 2
+	"lastEventDate": "16.09.2023 21:34 COOKIE+ COMENTING FAST",
+	"status": 2,
+	"screenname": "Eberson Da Silva",
+	"birthdate": "1995 February 2",
+	"country": "Brazil",
+	"isAvatarExists": false
 }
