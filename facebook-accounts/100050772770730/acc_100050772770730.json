@@ -46,7 +46,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726435947.130923,
+			"expirationDate": 1726490850.466057,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -71,7 +71,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695504775,
+			"expirationDate": 1695560038,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -84,7 +84,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726435947.130962,
+			"expirationDate": 1726490850.466112,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -93,11 +93,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcVoF1umbfsDcGvs7Ae-HRw4k0EPiEHi8WjbTxpWIw"
+			"value": "7%3AX28FfeCdjz3bQA%3A2%3A1694650392%3A-1%3A8969%3A%3AAcXWSv1RoCB1PBlNopxE5ObehlweutGE37_-wcBNjg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702675947.13098,
+			"expirationDate": 1702731177.760324,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -106,7 +106,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0JwmbmWHgKouv1NIv.AWUCz7Qw6kZgnmETP1G91oLteNo.BlBh7p.Uo.AAA.0.0.BlBh7p.AWWtKCRvFTE"
+			"value": "0nVn0KGnTcZJ2QWwb.AWWzhqWXLbXe9PkY2RvphXo7eQI.BlBvVi.Uo.AAA.0.0.BlBvaq.AWUY0SM890k"
 		},
 		{
 			"domain": ".facebook.com",
@@ -118,10 +118,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694899949406%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1694955236029%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "17.09.2023 12:52 COOKIE+ COMENTING FAST",
+	"lastEventDate": "17.09.2023 12:55 COOKIE+ COMENTING FAST",
 	"status": 2,
 	"screenname": "Eberson Da Silva",
 	"birthdate": "1995 February 2",
