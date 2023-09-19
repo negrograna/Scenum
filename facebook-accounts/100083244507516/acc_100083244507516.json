@@ -61,7 +61,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726181091.10157,
+			"expirationDate": 1726655373.218306,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -82,11 +82,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXJ5Ym83eHJxd2ZlbCIsInRpbWUiOjE2OTAyMzgzNjN9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXMwem92eTFzYjNzYmYiLCJ0aW1lIjoxNjk0NzE4MTQyfQ%3D%3D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695249955,
+			"expirationDate": 1695724203,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -99,7 +99,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1726181091.101625,
+			"expirationDate": 1726655373.223494,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -108,11 +108,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "40%3AtmblKuOclGYaZg%3A2%3A1683569007%3A-1%3A4887%3A%3AAcUhnsVGGmGAfCsAbMv-Mw_z62cZBTDDW8c6oqt957c"
+			"value": "40%3AtmblKuOclGYaZg%3A2%3A1683569007%3A-1%3A4887%3A%3AAcXcJMdck-4zuoFNCzP-q_RjdRfnCp8nwebD0ZVo96k"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702421091.101652,
+			"expirationDate": 1702895373.223693,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -121,11 +121,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0E6kCw2f8MqUTm0OF.AWW7yynPTgO5ysLMYJ2zWluoEjI.BlAjtj.zi.AAA.0.0.BlAjtj.AWUKTlMwDHk"
+			"value": "0HEwSbd9oXRM1E55A.AWVUH6JpU6aupMITnwDfDx33mNo.BlCXgM.zi.AAA.0.0.BlCXgM.AWUIF6mCCsE"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1695249955,
+			"expirationDate": 1695724203,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -146,10 +146,10 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100092038223745%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100032901610246%22%7D%5D%2C%22utc3%22%3A1694645157670%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1695119401133%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "15.09.2023 12:50 add Cookies",
+	"lastEventDate": "19.09.2023 10:30 LIKE+COOKIE",
 	"status": 2,
 	"profileName": "Nazaré Da Silva Pereira"
 }
