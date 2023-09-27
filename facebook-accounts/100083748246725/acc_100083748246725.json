@@ -75,7 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1696435797,
+			"expirationDate": 1696436314,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1703606967.820162,
+			"expirationDate": 1703607456.700186,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "0jLPMVVDxBxWkF1bw.AWVmSvkZU5Un8x-Tglbb06uNk1I.BlFFO3.0X.AAA.0.0.BlFFO3.AWUkRcdDxyY"
+			"value": "0jLPMVVDxBxWkF1bw.AWWSRCC2U30dsYuSEDS3yckhRwQ.BlFFO3.0X.AAA.0.0.BlFFWg.AWVgALL6QCc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,11 +122,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100087869650638%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100055553375431%22%7D%5D%2C%22utc3%22%3A1695830971485%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100087869650638%22%7D%2C%7B%22o%22%3A0%2C%22i%22%3A%22u.100055553375431%22%7D%5D%2C%22utc3%22%3A1695831509984%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1696435797,
+			"expirationDate": 1696436314,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -138,6 +138,6 @@
 			"value": "1.100000023841858"
 		}
 	],
-	"lastEventDate": "27.09.2023 16:15 Ver video e Stories",
+	"lastEventDate": "27.09.2023 16:19 LIKE+COOKIE",
 	"status": 2
 }
