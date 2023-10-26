@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1729619442.974034,
+			"expirationDate": 1729886248.80567,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,19 +60,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100082099316276"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1729619442.974119,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "12%3A07K3dfmjBpkUwA%3A2%3A1694657242%3A-1%3A9136%3A%3AAcUTJDNQ9kR4pPPJrMtPAcBbNewBvcmutnf8Hl94k5g"
 		},
 		{
 			"domain": ".facebook.com",
@@ -88,7 +75,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698688379,
+			"expirationDate": 1729886248.805886,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "12%3A07K3dfmjBpkUwA%3A2%3A1694657242%3A-1%3A9136%3A%3AAcX0h7s6ajDpKXq4bC8Hb0-qPZ0ELZPhDx3YXUZCOBs"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1698955344,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +101,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1705859494.245809,
+			"expirationDate": 1706126460.136457,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1tHT5fuAagJ7OlRPb.AWX5f7c512yIYPZEnmB3J2czFYo.BlNrJy.2t.AAA.0.0.BlNrKl.AWVHQkk0krc"
+			"value": "1tyiq1b8kICyRwRxY.AWVxtpaoeY2lf5OijEDFEKU9Qxk.BlOsSn.2t.AAA.0.0.BlOsV7.AWUYtKO44T8"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698083576652%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698350518762%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "23.10.2023 18:24 like+comentário+cookie",
+	"lastEventDate": "26.10.2023 20:03 LIKE+COOKIE",
 	"status": 2
 }
