@@ -1,5 +1,117 @@
 {
 	"sn": "facebook",
 	"id": "100083146411507",
-	"name": ""
+	"name": "",
+	"profileName": "Gleice Da Silva Pereira  (Gleice Da Silva Pereira)",
+	"amountFriends": "",
+	"screenname": "Gleice Da Silva Pereira  (Gleice Da Silva Pereira)",
+	"birthdate": "1996 March 3",
+	"country": "Brazil",
+	"isAvatarExists": false,
+	"cookie": [
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1732997585.377306,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "dbln",
+			"path": "/login/device-based/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "%7B%22100083146411507%22%3A%22V8dJG7EN%22%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1732997578.116359,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "sb",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "Nxk8ZWKxNkHi25vkKZWF68nI"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1732997436.769096,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "datr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "Nxk8ZZAjDDySRtpB6uPzlNYj"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1729973578.116573,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "c_user",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "100083146411507"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1729973578.116652,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "14%3A5wBM24wjWH41oA%3A2%3A1698437575%3A-1%3A-1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1699042490,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x567"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706213624.11267,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "fr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0BMvYeR9MvsdJmpU1.AWVzAXp0DqohPQ6gkLlVBPDpi2A.BlPBk3.Qt.AAA.0.0.BlPBn3.AWUISfm_67M"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "presence",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698437678845%2C%22v%22%3A1%7D"
+		}
+	],
+	"lastEventDate": "27.10.2023 20:16 like+comentário+cookie"
 }
