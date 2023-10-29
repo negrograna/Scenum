@@ -2,9 +2,9 @@
 	"sn": "facebook",
 	"id": "100082099316276",
 	"name": "",
-	"profileName": "Nazaré Da Silva Pereira (Nazaré Da Silva Pereira)",
+	"profileName": "Nazaré Da Silva Pereira  (Nazaré Da Silva Pereira)",
 	"amountFriends": "",
-	"screenname": "Nazaré Da Silva Pereira (Nazaré Da Silva Pereira)",
+	"screenname": "Nazaré Da Silva Pereira  (Nazaré Da Silva Pereira)",
 	"birthdate": "1968 June 23",
 	"country": "Brazil",
 	"isAvatarExists": false,
@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1729886248.80567,
+			"expirationDate": 1730147000.897109,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -75,20 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1729886248.805886,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "12%3A07K3dfmjBpkUwA%3A2%3A1694657242%3A-1%3A9136%3A%3AAcX0h7s6ajDpKXq4bC8Hb0-qPZ0ELZPhDx3YXUZCOBs"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1698955344,
+			"expirationDate": 1699215858,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +88,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706126460.136457,
+			"expirationDate": 1730147000.897282,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "12%3A07K3dfmjBpkUwA%3A2%3A1694657242%3A-1%3A9136%3A%3AAcVykxnojv4N1c_hfIDdeQhAVr7IqU0N1zhJ3PkZ9as"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706387000.897359,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1tyiq1b8kICyRwRxY.AWVxtpaoeY2lf5OijEDFEKU9Qxk.BlOsSn.2t.AAA.0.0.BlOsV7.AWUYtKO44T8"
+			"value": "1YRHuGc5luIdhU2il.AWUN8G56nCrzgR0QLPevB1cywpU.BlPr84.2t.AAA.0.0.BlPr84.AWVirKO2EDA"
 		},
 		{
 			"domain": ".facebook.com",
@@ -122,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698350518762%2C%22v%22%3A1%7D"
+			"value": "C%7B%22lm3%22%3A%22u.100051429732899%22%2C%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698611060964%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "26.10.2023 20:22 LIKE+COOKIE",
+	"lastEventDate": "29.10.2023 20:25 LIKE+COOKIE",
 	"status": 2
 }
