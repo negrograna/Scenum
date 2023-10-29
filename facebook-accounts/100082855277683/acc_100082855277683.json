@@ -2,9 +2,9 @@
 	"sn": "facebook",
 	"id": "100082855277683",
 	"name": "",
-	"profileName": "Suellen De Souza Fernandes (Suellen De Souza Fernandes)",
+	"profileName": "Suellen De Souza Fernandes  (Suellen De Souza Fernandes)",
 	"amountFriends": "",
-	"screenname": "Suellen De Souza Fernandes (Suellen De Souza Fernandes)",
+	"screenname": "Suellen De Souza Fernandes  (Suellen De Souza Fernandes)",
 	"birthdate": "1996 October 8",
 	"country": "Brazil",
 	"isAvatarExists": false,
@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1729614810.60016,
+			"expirationDate": 1730140792.342984,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -60,19 +60,6 @@
 			"session": false,
 			"storeId": "0",
 			"value": "100082855277683"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1729614810.60038,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "2%3Ai39j7HcdOdFsvQ%3A2%3A1697314011%3A-1%3A-1%3A%3AAcV537yTld2SfIpbCrXLpY5CAlHoRVXWva7twlyIEw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -88,20 +75,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1698456612,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "cppo",
-			"path": "/",
-			"sameSite": "unspecified",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1698975169,
+			"expirationDate": 1699209649,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -114,7 +88,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706146273.915925,
+			"expirationDate": 1730140792.343051,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "2%3Ai39j7HcdOdFsvQ%3A2%3A1697314011%3A-1%3A-1%3A%3AAcWWWZNqazdKHs9_kC_rH0gl2SMDRMqM9HoQyGDA7w"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1706380792.343079,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +110,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1tSMJT2ThzfBazm7O.AWV-EasH9pZntWGJc6k21_c9GtY.BlNqBZ.IP.AAA.0.0.BlOxLh.AWU0PP0STxc"
+			"value": "1bHw59XfOcrgz6Ufg.AWWlPP-O7ScGI5pDwlsqXCjjUIE.BlPqb4.IP.AAA.0.0.BlPqb4.AWWrS5Q_P9M"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,9 +122,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698370368015%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1698604847325%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "27.10.2023 01:47 LIKE+COOKIE",
+	"lastEventDate": "29.10.2023 18:42 LIKE+COOKIE",
 	"status": 2
 }
