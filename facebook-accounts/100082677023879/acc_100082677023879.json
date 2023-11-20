@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1731926073.815059,
+			"expirationDate": 1732014157.103155,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,7 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1700994934,
+			"expirationDate": 1701083011,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1731926073.81519,
+			"expirationDate": 1732014157.103238,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AAo8FgWFkGTi_Hg%3A2%3A1699647060%3A-1%3A-1%3A%3AAcV0d1iRYd_zOYl_PGC4rrNEXlH3k8nfwLpYtFJMOw"
+			"value": "17%3AAo8FgWFkGTi_Hg%3A2%3A1699647060%3A-1%3A-1%3A%3AAcXz11EnmH8_gMSs-FIXdnQoRfO7jHJgkB3x3Wy0yA"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708166073.815245,
+			"expirationDate": 1708254157.103278,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -111,20 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1SYIz0kuT9Y75KA2b.AWU1WJKPfZhX8R010HjWwFzze0s.BlWeS7.Dr.AAA.0.0.BlWeS7.AWXB-FCB0CI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1700994933,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "dpr",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "0.800000011920929"
+			"value": "1lrhDgL3zkrQq6PDC.AWXlIJY7obxYq_Jm_rCl0fFXL-I.BlWzzO.Dr.AAA.0.0.BlWzzO.AWWWR3xFDxk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +123,22 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1700390131291%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1700478186127%2C%22v%22%3A1%7D"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701083011,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "dpr",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0.800000011920929"
 		}
 	],
-	"lastEventDate": "19.11.2023 10:56 COMMENTING+COOKIE",
+	"lastEventDate": "20.11.2023 11:05 LIKE+COOKIE",
 	"status": 2
 }
