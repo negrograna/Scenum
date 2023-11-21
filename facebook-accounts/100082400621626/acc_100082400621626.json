@@ -3,7 +3,7 @@
 	"id": "100082400621626",
 	"name": "",
 	"profileName": "Gleice Da Silva Pereira",
-	"amountFriends": "84",
+	"amountFriends": "89",
 	"screenname": "Gleice Da Silva Pereira",
 	"birthdate": "1996 March 3",
 	"country": "Brazil",
@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1730644490.629014,
+			"expirationDate": 1730889188.685587,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1730644490.629118,
+			"expirationDate": 1730889188.685698,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -72,7 +72,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "38%3AUVMAjZ3Hsjy4dw%3A2%3A1694881191%3A-1%3A8982%3A%3AAcXq4SrVIncr7ouLaqn5T1OUEwd-_aDRY2jXSyww5TE"
+			"value": "38%3AUVMAjZ3Hsjy4dw%3A2%3A1694881191%3A-1%3A8982%3A%3AAcU3hPbfaxH4A-4jmpIfQes0iFb8RwaVfzjB83FGDo0"
 		},
 		{
 			"domain": ".facebook.com",
@@ -84,11 +84,24 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXMzbHNpMWV3ZDZmaSIsInRpbWUiOjE2OTkxMDg0OTZ9"
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXM0Z2hpa2Mycjl6MCIsInRpbWUiOjE3MDA1NDA1ODh9"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699713422,
+			"expirationDate": 1700626989,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "cppo",
+			"path": "/",
+			"sameSite": "unspecified",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1701145489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -101,7 +114,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706884533.079046,
+			"expirationDate": 1708316629.800342,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -110,11 +123,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1dliP27jjxu2Ojdos.AWWyIwCVzSbvtLHzQISecChDzuo.BlRlaK.hW.AAA.0.0.BlRla1.AWW_hQApprM"
+			"value": "11P4V39HJ0V4v3EBK.AWWtXWojt4qsjDKyju0tYVJCA6s.BlShJj.hW.AAA.0.0.BlXDDV.AWUsNRi_BuQ"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1699713422,
+			"expirationDate": 1701145489,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -135,9 +148,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22lm3%22%3A%22u.100089236034822%22%2C%22t3%22%3A%5B%7B%22o%22%3A0%2C%22i%22%3A%22u.100067118603995%22%7D%5D%2C%22utc3%22%3A1699108624218%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1700540687120%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "04.11.2023 15:06 like+comentário+cookie",
+	"lastEventDate": "21.11.2023 04:25 like+comentário+cookie",
 	"status": 2
 }
