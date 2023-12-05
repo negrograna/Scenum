@@ -62,19 +62,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXMzbTl0anF3cHFxNiIsInRpbWUiOjE2OTkxMzA5MzV9"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1699962032,
+			"expirationDate": 1702403860,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -88,6 +76,18 @@
 		{
 			"domain": ".facebook.com",
 			"hostOnly": false,
+			"httpOnly": false,
+			"name": "usida",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": true,
+			"storeId": "0",
+			"value": "eyJ2ZXIiOjEsImlkIjoiQXM1N2dpYjE4djUxN3MiLCJ0aW1lIjoxNzAxNzk4OTk1fQ%3D%3D"
+		},
+		{
+			"domain": ".facebook.com",
+			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
 			"path": "/",
@@ -95,11 +95,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "45%3Ab0XIkbzbX-86ow%3A2%3A1698445519%3A-1%3A12232%3A%3AAcUrlqokpVuGiSan8H8casp2v5YzYQhpXNKpwXbGIAo"
+			"value": "45%3Ab0XIkbzbX-86ow%3A2%3A1698445519%3A-1%3A10709%3A%3AAcXgrv_dZqMkNWmpPgv0LDFdsYUPq1ZtzdmsF4a4AWk"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1707133173.089812,
+			"expirationDate": 1709574995.311495,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -108,7 +108,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1FNCNYA8HzdL4Q3S9.AWXu9b5ji48n9QoeAXSUMmf1DN4.BlSiH0.03.AAA.0.0.BlSiH0.AWXHA6MJPQ0"
+			"value": "1GXTL16fplMQ4v8pv.AWUVWtVl4ACuaBzYh5Zj--FmsdM.Blb2RS.03.AAA.0.0.Blb2RS.AWVsKnOdsXI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -120,9 +120,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1699357230504%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1701799029395%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "03.12.2023 16:36 add Cookies",
+	"lastEventDate": "05.12.2023 17:59 LIKE+COOKIE",
 	"status": 2
 }
