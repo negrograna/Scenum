@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1733928895.695554,
+			"expirationDate": 1735222423.157681,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -76,19 +76,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "usida",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": true,
-			"storeId": "0",
-			"value": "eyJ2ZXIiOjEsImlkIjoiQXM1ZDFjbTFjNDA1NWciLCJ0aW1lIjoxNzAyMDU5MzAwfQ%3D%3D"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1733928895.69578,
+			"expirationDate": 1735222423.157749,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -97,11 +85,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "17%3AAo8FgWFkGTi_Hg%3A2%3A1699647060%3A-1%3A-1%3A%3AAcXAu2kCgSwWxbT4pZf7Lb6WQYn3n_8nUkdtutpLLW4"
+			"value": "17%3AAo8FgWFkGTi_Hg%3A2%3A1699647060%3A-1%3A-1%3A%3AAcXNntACsqzM-OKsrgMj_a93LVpAr7KMXExbtnePKHw"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702997861,
+			"expirationDate": 1704291326,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -114,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1710168975.831819,
+			"expirationDate": 1711462441.064044,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -123,7 +111,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1I4IGixXmcZS4zDra.AWVaHGTTogNGaY-NR-Hs-DhSjds.BleHRJ.Dr.AAA.0.0.BleHSa.AWWeUj8RbMo"
+			"value": "14hbiHEFa5ZMJ5GgG.AWVCtnoMXaYAG5IFKT1nP30JLEo.BljDEX.Dr.AAA.0.0.BljDEp.AWX_LYyGevk"
 		},
 		{
 			"domain": ".facebook.com",
@@ -135,11 +123,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1702393044102%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1703686520838%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1702997861,
+			"expirationDate": 1704291326,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -151,6 +139,6 @@
 			"value": "0.800000011920929"
 		}
 	],
-	"lastEventDate": "27.12.2023 14:13 cookie",
+	"lastEventDate": "27.12.2023 14:17 cookie",
 	"status": 2
 }
