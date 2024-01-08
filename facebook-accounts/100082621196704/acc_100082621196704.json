@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1735474530.477481,
+			"expirationDate": 1736277957.130108,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -63,20 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1735474530.477583,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "34%3AzawacII3YSRPdA%3A2%3A1696369988%3A-1%3A-1%3A%3AAcVSqWFa2of-cLS6WoF3ATEkdgXZl64s7f32xQI6OgI"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1704543439,
+			"expirationDate": 1705346836,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +76,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1711714581.161039,
+			"expirationDate": 1736277957.1302,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "34%3AzawacII3YSRPdA%3A2%3A1696369988%3A-1%3A-1%3A%3AAcXH7j2XZEKDzH7AcgJnLa2Sh3klGAsnKUo57HWX7xM"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1712517976.721989,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +98,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "16FLu7qrNTCbcBtzg.AWXig_inwRr8pAHliBBAZwOe5X8.BlkAni.Oy.AAA.0.0.BlkAoV.AWVrpD-2yRU"
+			"value": "1NXpq2JqFT7C7bLdm.AWUCwbEvVgXyPTiibtNE6brFLZE.BlnExF.Oy.AAA.0.0.BlnExa.AWV9_usNvfg"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,11 +110,11 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1703938634502%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1704742030981%2C%22v%22%3A1%7D"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1704543439,
+			"expirationDate": 1705346836,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -126,6 +126,6 @@
 			"value": "1.100000023841858"
 		}
 	],
-	"lastEventDate": "08.01.2024 19:25 cookie",
+	"lastEventDate": "08.01.2024 19:28 cookie",
 	"status": 2
 }
