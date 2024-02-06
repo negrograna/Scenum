@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1737718085.100865,
+			"expirationDate": 1738757743.870643,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -63,7 +63,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1737718085.100966,
+			"expirationDate": 1738757743.870709,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -72,11 +72,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AxXarL2r1ComKxw%3A2%3A1703845279%3A-1%3A12157%3A%3AAcXJc3zpwV5SzWgNfpO7mazZxNLkVxua8WwPP-r90Q"
+			"value": "18%3AxXarL2r1ComKxw%3A2%3A1703845279%3A-1%3A12157%3A%3AAcX_I9g1C8xX07I_ssYsuYgiyG9lk8A4ErHN-RP_Cg"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1706787011,
+			"expirationDate": 1707826635,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -89,7 +89,33 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1713958117.940694,
+			"expirationDate": 1741781753.20091,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "ps_n",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1741781753.201049,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "ps_l",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "0"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1714997767.908304,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -98,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1lFzvMoTrm1ux98to.AWWqp2-Mg-8zou_iM9LG6qYobqM.BlskXG.03.AAA.0.0.BlskXn.AWWc8GFq3Ec"
+			"value": "1wjff5KJtCYTFhHfo.AWUoe_ewnBxvxQ8AE75kdhDSp-c.BlwiLw.03.AAA.0.0.BlwiMI.AWUqmc_IKxI"
 		},
 		{
 			"domain": ".facebook.com",
@@ -110,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1706182212959%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1707221836944%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "06.02.2024 12:15 cookie",
+	"lastEventDate": "06.02.2024 12:18 cookie",
 	"status": 2
 }
