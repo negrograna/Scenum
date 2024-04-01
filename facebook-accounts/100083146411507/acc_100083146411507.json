@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1740567815.679686,
+			"expirationDate": 1743549205.352149,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709636724,
+			"expirationDate": 1712618116,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "dpr",
@@ -102,7 +102,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1740567815.67991,
+			"expirationDate": 1743549205.352236,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +111,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "14%3A5wBM24wjWH41oA%3A2%3A1698437575%3A-1%3A7872%3A%3AAcXI_bz18VOyHZy---gdPWgAAGPQhI48YLxepsJrLRM"
+			"value": "14%3A5wBM24wjWH41oA%3A2%3A1698437575%3A-1%3A7872%3A%3AAcWI4cD67QCET8lnczQGmbCiOby05UY_OB44xsB0DR0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1709636724,
+			"expirationDate": 1712618116,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -124,11 +124,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1517x630"
+			"value": "1517x607"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716807861.131174,
+			"expirationDate": 1719789252.023328,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -137,7 +137,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1rlUpKg2usdj5elnp.AWXaH_F5ec6hiKDwlJ0qemYzIc0.Bl3cGH..AAA.0.0.Bl3cG1.AWWRLW4TsEU"
+			"value": "1QJuR5gSRyuhoIqF5.AWULYlqVBZXqWTXRWBmuHMT8grI.BmCz-U..AAA.0.0.BmCz_E.AWUl_25ohbc"
 		},
 		{
 			"domain": ".facebook.com",
@@ -149,9 +149,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1709031927075%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1712013317917%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.03.2024 18:54 add Cookies",
+	"lastEventDate": "01.04.2024 23:16 like+comentário+cookie",
 	"status": 2
 }
