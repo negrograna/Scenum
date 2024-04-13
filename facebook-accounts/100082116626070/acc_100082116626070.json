@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1738942759.603351,
+			"expirationDate": 1744540478.20371,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,20 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1708011649,
-			"hostOnly": false,
-			"httpOnly": false,
-			"name": "wd",
-			"path": "/",
-			"sameSite": "lax",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "1366x567"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1738942759.603453,
+			"expirationDate": 1744540478.203866,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -111,11 +98,24 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "49%3AjrvSHtiFBr-bwg%3A2%3A1695660906%3A-1%3A14637%3A%3AAcUpWq8h0d4oYNWezh3se8-O3WGaQ-rbjFXq4Ob2soY"
+			"value": "49%3AjrvSHtiFBr-bwg%3A2%3A1695660906%3A-1%3A14637%3A%3AAcWZrWuItobqXEy_ADkEc3R6Xb_eKSf6a41qeYgpeK8"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1715182783.948657,
+			"expirationDate": 1713609826,
+			"hostOnly": false,
+			"httpOnly": false,
+			"name": "wd",
+			"path": "/",
+			"sameSite": "lax",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "1366x547"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1720780963.086368,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "15yiL3YDCg7nAR2ZG.AWU9jc1uyB_y7DMc_ifGY2s6_sY.BlxPWn..AAA.0.0.BlxPW_.AWXSuFWTccY"
+			"value": "1T11wQZFxDEyvOZFJ.AWVNft3wlP8Gdv4H-hEQA8r5tok.BmGl--..AAA.0.0.BmGmGj.AWWRSOWV6vw"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1707406842701%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713005028173%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.04.2024 10:42 add Cookies",
+	"lastEventDate": "13.04.2024 10:45 add Cookies",
 	"status": 2
 }
