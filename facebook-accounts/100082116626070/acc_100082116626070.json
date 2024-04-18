@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1744540478.20371,
+			"expirationDate": 1744993184.38948,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,20 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1744540478.203866,
-			"hostOnly": false,
-			"httpOnly": true,
-			"name": "xs",
-			"path": "/",
-			"sameSite": "no_restriction",
-			"secure": true,
-			"session": false,
-			"storeId": "0",
-			"value": "49%3AjrvSHtiFBr-bwg%3A2%3A1695660906%3A-1%3A14637%3A%3AAcWZrWuItobqXEy_ADkEc3R6Xb_eKSf6a41qeYgpeK8"
-		},
-		{
-			"domain": ".facebook.com",
-			"expirationDate": 1713609826,
+			"expirationDate": 1714062074,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +102,20 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1720780963.086368,
+			"expirationDate": 1744993184.389564,
+			"hostOnly": false,
+			"httpOnly": true,
+			"name": "xs",
+			"path": "/",
+			"sameSite": "no_restriction",
+			"secure": true,
+			"session": false,
+			"storeId": "0",
+			"value": "49%3AjrvSHtiFBr-bwg%3A2%3A1695660906%3A-1%3A14637%3A%3AAcUb41zA5clIXBBWxjI4TXpRuILlf7Bt47j-x6BjigA"
+		},
+		{
+			"domain": ".facebook.com",
+			"expirationDate": 1721233209.01544,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1T11wQZFxDEyvOZFJ.AWVNft3wlP8Gdv4H-hEQA8r5tok.BmGl--..AAA.0.0.BmGmGj.AWWRSOWV6vw"
+			"value": "1hsAvGsJhIkJ5hmvn.AWUO7_jV3qKsd7-xUoZ_HutuTMQ.BmIUgi..AAA.0.0.BmIUg6.AWWC3ElEZQo"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713005028173%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1713457276219%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "13.04.2024 10:52 add Cookies",
+	"lastEventDate": "18.04.2024 16:22 like+comentário+cookie",
 	"status": 2
 }
