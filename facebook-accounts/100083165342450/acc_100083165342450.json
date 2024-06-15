@@ -5,7 +5,7 @@
 	"profileName": "Emerson Da Silva Pereira",
 	"amountFriends": "",
 	"screenname": "Emerson Da Silva Pereira",
-	"birthdate": "",
+	"birthdate": "2003 March 4",
 	"country": "Brazil",
 	"isAvatarExists": false,
 	"cookie": [
@@ -50,7 +50,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1747415742.817119,
+			"expirationDate": 1750004864.928077,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "c_user",
@@ -89,7 +89,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1747415742.817237,
+			"expirationDate": 1750004864.92824,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "xs",
@@ -98,11 +98,11 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "18%3AxXarL2r1ComKxw%3A2%3A1703845279%3A-1%3A12157%3A%3AAcUgZwj6FX_p61j4Bgj6ubNCNDCfdCBJGQkoEcFNzuw"
+			"value": "18%3AxXarL2r1ComKxw%3A2%3A1703845279%3A-1%3A1676%3A%3AAcX4r15mQ8leVPlNdhWdjmCV_QaKGnKkV5HujVmX5e0"
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1716485338,
+			"expirationDate": 1719073827,
 			"hostOnly": false,
 			"httpOnly": false,
 			"name": "wd",
@@ -115,7 +115,7 @@
 		},
 		{
 			"domain": ".facebook.com",
-			"expirationDate": 1723656472.198953,
+			"expirationDate": 1726244951.36962,
 			"hostOnly": false,
 			"httpOnly": true,
 			"name": "fr",
@@ -124,7 +124,7 @@
 			"secure": true,
 			"session": false,
 			"storeId": "0",
-			"value": "1E3aFsjIEahQDuNEg.AWUhT24R5VM5b7w2m9Pvsg-NcXY.BmRj8-..AAA.0.0.BmRkIY.AWVeiJ25dVQ"
+			"value": "1Env5fv7Q36O5slg1.AWUBYGJ7kIHn9v6wK6WLa6vON6c.BmbcD_..AAA.0.0.BmbcFW.AWUeWWfbUEE"
 		},
 		{
 			"domain": ".facebook.com",
@@ -136,9 +136,9 @@
 			"secure": true,
 			"session": true,
 			"storeId": "0",
-			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1715880540906%2C%22v%22%3A1%7D"
+			"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1718469027838%2C%22v%22%3A1%7D"
 		}
 	],
-	"lastEventDate": "16.05.2024 17:30 cookie",
+	"lastEventDate": "15.06.2024 16:32 like+comentário+cookie",
 	"status": 2
 }
